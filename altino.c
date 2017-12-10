@@ -16,7 +16,6 @@ int main() {
 
 		if (sdata.IRSensor[3]>20) {
 
-
 			Steering(1);
 			Go(300, 300);
 			delay(50);
